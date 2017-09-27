@@ -1,5 +1,5 @@
 # Tanioka17_GBC_dataanalysis
-# This is MATLAB codes used for data analysis
+# This is MATLAB codes used for data analysis in Section 2 of Tanioka and Matsumoto (2017), GBC
 
 files;
 1. binnedmeans3.mlx % main file (run this)
